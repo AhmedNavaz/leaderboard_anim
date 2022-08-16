@@ -4,4 +4,4 @@ An animation for leaderboard elements.
 
 ## In Magic
 
-![me](https://github.com/AhmedNavaz/leaderboard_anim/tree/master/assets/images/leaderborad_UI.gif)
+![me](assets/images/leaderborad_UI.gif)
